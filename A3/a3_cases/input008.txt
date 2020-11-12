@@ -1,0 +1,2 @@
+encryptThisString
+decryptThisString
