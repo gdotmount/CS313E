@@ -57,14 +57,13 @@ def radix_sort(a):
         keys[chr(i)] = ind + 10
     max_l = len(max(a, key=lambda p: len(p)))
 
-    for i in range(max_l):
+    for i in range(max_l, -1, -1):
         sorted_list = []
         for word in a:
-            w = word[::-1]
-            if i >= len(w):
+            if i >= len(word):
                 queues[0].enqueue(word)
             else:
-                queues[keys[w[i]]].enqueue(word)
+                queues[keys[word[i]]].enqueue(word)
         for queue in queues:
             while not queue.is_empty():
                 sorted_list.append(queue.dequeue())

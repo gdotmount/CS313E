@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b67f90c-a721-4031-9ab0-4070274cd659" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../A18/grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A20/ExpressionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A20/expression.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A21/BST_Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A21/bst_cipher.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A22/TestBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A22/bst.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A23/Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A23/graph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A17/Radix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../A17/Radix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A17/radix.in" beforeDir="false" afterPath="$PROJECT_DIR$/../A17/radix.in" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l4QDmoFG807cNasF6UZ7luC63k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A20" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b67f90c-a721-4031-9ab0-4070274cd659" name="Default Changelist" comment="" />
+      <created>1606853766842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606853766842</updated>
+      <workItem from="1606853767927" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1606853779169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606853779169" />
+  </component>
+</project>

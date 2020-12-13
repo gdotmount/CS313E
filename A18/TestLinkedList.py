@@ -267,7 +267,7 @@ def main():
 
     # Test method is_empty()
     print(my_list.is_empty())
-    print(LinkedList().is_empty(), end='\n\n')
+    assert LinkedList().is_empty()
 
     # Test method merge_list()
     print(my_list.merge_list(my_list.reverse_list()))
